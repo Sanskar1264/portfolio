@@ -13,7 +13,7 @@ const Contact = () => {
 
 // enter your own web3 forms access key below
 
-    formData.append("access_key", "xxxxxxxxxxxxxxxxxxxxxxxx");
+    formData.append("access_key", "fe46df4f-80da-47ae-a585-959d7556819f");
 
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
